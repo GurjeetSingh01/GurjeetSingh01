@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gurjeet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am Gurjeet Singh!</h1>
+
+<h3 align="center">A passionate developer from India</h3>
 <h4> I am currently studying at Galgotias University in the 7th semester of Computer Science and Engineering. A highly organised, motivated, and time-efficient individual, diligent computer engineering student Passionate coder, eager to use analytical and critical thinking to solve problems, and optimize solutions to achieve team goals. Aiming to implement knowledge of programming skills to solve real-world problems. Looking forward to developing skills in the industry to be ready for the corporate world challenges</h4>
 
 
