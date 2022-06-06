@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for **Internship opportunities 🧑‍💻🔥**
 
-- 📫 How to reach me **2001gurjeetsingh@gmail.com**
+- 📫 How to reach me **talktogurjeetsingh@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
