@@ -39,4 +39,9 @@
 
 
 ![bottom_header](https://user-images.githubusercontent.com/55250674/173758775-ec41c80a-7b8f-409d-b97a-c5be0a1f165f.svg)
+ 
+ <br>
+ <br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and contribute to projects, let's make a difference. Feel free to reach out to me in any social media. </b> 😊 💜</em>
 
