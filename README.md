@@ -50,13 +50,10 @@
 <code><img height="40" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code> 
 
----
-
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjeetsingh01&show_icons=true&locale=en&layout=compact&theme=dark" alt="gurjeetsingh01" /></p>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurjeetSi&count_private=true&line_height=40&theme=dark"> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsingh01&theme=dark" alt="gurjeetsingh01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjeetsingh01&show_icons=true&locale=en&layout=compact&theme=dark" alt="gurjeetsingh01"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsingh01&theme=dark" alt="gurjeetsingh01"/></p>
 
 ---
 
