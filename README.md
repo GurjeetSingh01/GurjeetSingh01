@@ -50,24 +50,44 @@
 <code><img height="40" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code> 
 
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjeetsingh01&show_icons=true&locale=en&layout=compact&theme=dark" alt="gurjeetsingh01"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsingh01&theme=dark" alt="gurjeetsingh01"/></p>
+## **Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=GurjeetSingh01&line_height=40&theme=dark">
+</p>
+
+<!-- <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjeetsingh01&show_icons=true&locale=en&layout=compact&theme=dark" alt="gurjeetsingh01"/></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeetsingh01&theme=dark" alt="gurjeetsingh01"/></p>
+ -->
 
 ---
 
-## **GitHub Stats:**
+<!-- ## **GitHub Stats:**
 
 <p align="center">
  
- <img src="https://github-readme-stats.vercel.app/api?username=GurjeetSingh01&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="Gurjeet Singh" />
+ <img src="https://github-readme-stats.vercel.app/api?username=GurjeetSingh01&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues&" alt="Gurjeet Singh" />
  
  <p align = "center">
   <img src = "https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=react-dark" align = "center">
 </p>
+ -->
+## **Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GurjeetSingh01&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurjeetSingh01&count_private=true&line_height=40&theme=dark">
+
+ <p align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=react-dark" align = "center">
+</p>
+
 
  ---
+
+
 
 ![bottom_header](https://user-images.githubusercontent.com/55250674/173758775-ec41c80a-7b8f-409d-b97a-c5be0a1f165f.svg)
  
