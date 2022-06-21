@@ -96,6 +96,9 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and contribute to projects, let's make a difference. Feel free to reach out to me in any social media. </b> 😊💜</em>
 
+<br>
 
-  
+<p align="right" > <em><b>Created with 🖤 by <a href="https://github.com/GurjeetSingh01">GurjeetSingh01</a></p></b></em>
+
+<!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=GurjeetSingh01&label=Profile%20views&color=0e75b6&style=flat" alt="GurjeetSingh01" /> </p> -->
   
