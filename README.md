@@ -54,7 +54,7 @@
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=GurjeetSingh01&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=GurjeetSingh01&line_height=40&theme=algolia">
 </p>
 
 <!-- <br>
@@ -71,16 +71,17 @@
  <img src="https://github-readme-stats.vercel.app/api?username=GurjeetSingh01&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues&" alt="Gurjeet Singh" />
  
  <p align = "center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=react-dark" align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=algolia" align = "center">
 </p>
  -->
 ## **Github Stats:**
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GurjeetSingh01&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurjeetSingh01&count_private=true&line_height=40&theme=dark">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GurjeetSingh01&hide=stars&show_icons=true&line_height=48&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurjeetSingh01&count_private=true&line_height=40&theme=algolia">
+  
+  
  <p align = "center">
   <img src = "https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=react-dark" align = "center">
 </p>
