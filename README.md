@@ -1,4 +1,5 @@
 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <h1> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐨𝐥𝐤𝐬!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="220px"></h1>
 
@@ -38,7 +39,7 @@
 
 
 
-## **TechStack:**
+## **TechStack:** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> 
 <code><img height="40" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp"></code>
 <code> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" height="40"></code>
