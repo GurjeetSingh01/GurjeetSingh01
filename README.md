@@ -1,12 +1,13 @@
 
-<!--![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)-->
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
-<div align = "center">
+<!--<div align = "center">
 
   <img src = "https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" width = "90%" height = "60%" align = "center"/>
 
-</div>
+</div>-->
+
 <h1> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐨𝐥𝐤𝐬!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="220px"></h1>
 
 <h1> I am Gurjeet Singh <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
