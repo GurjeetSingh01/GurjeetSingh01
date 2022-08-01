@@ -93,7 +93,7 @@
  <!-- <p align = "center">
   <img src = "https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=react-dark" align = "center">
 </p> -->
-
+  [![Gurjeet Singh github activity graph](https://activity-graph.herokuapp.com/graph?username=GurjeetSingh01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ---
 
