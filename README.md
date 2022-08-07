@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **talktogurjeetsingh@gmail.com**
 
-- ⚡ Fun fact about me: **I am a chess fanatic.*
+- ⚡ Fun fact about me: **I am a chess fanatic.**
 
 ---
 
