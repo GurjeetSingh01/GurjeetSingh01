@@ -15,9 +15,9 @@
 
 ---
 
-- 🔭 I’m currently working o n **React & Redux. ✨**
+- 🔭 I’m currently working on **React & Redux. ✨**
 
-- 🌱 I’m currently learning **TypeScript & exploring Azure. 🚀**
+- 🌱 I’m currently l earning **TypeScript & exploring Azure. 🚀**
 
 - 👯 I’m looking to collaborate  **in real world projects and hackathons. 🤗**
 
