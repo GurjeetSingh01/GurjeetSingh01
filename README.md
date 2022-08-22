@@ -110,7 +110,7 @@
 
 <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
 
-<p align="right" > <em><b>Created with 🖤 by <a href="https://github.com/GurjeetSingh01">GurjeetSingh01</a></p></b></em>
+< align="right" > <em><b>Created with 🖤 by <a href="https://github.com/GurjeetSingh01">GurjeetSingh01</a></p></b></em>
 
 <!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=GurjeetSingh01&label=Profile%20views&color=0e75b6&style=flat" alt="GurjeetSingh01" /> </p> -->
   
