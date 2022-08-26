@@ -106,7 +106,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and contribute to projects, let's make a difference. Feel free to reach out to me in any social media. </b> 😊💜</em>
 
-<br>
+<br
 
 <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
 
