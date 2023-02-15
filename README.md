@@ -32,7 +32,7 @@
  ## **Connect with me:**  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60" height="20"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurwin" height="30" width="40" /></a>
-<a href="https://instagram.com/btwitsgurjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitsgurjeet" height="30" width="40" /></a>
+<a href="https://instagram.com/whoisgurwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitsgurjeet" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gurjeet_singh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gurjeet_singh7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gurwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gurwin" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gurwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gurwin" height="30" width="40" /></a>
